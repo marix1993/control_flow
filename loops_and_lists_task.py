@@ -5,18 +5,18 @@
 #     x += 1
 #
 # ### Create another loop with a range that asks for names and appends to list_names
-# list_names = ["Mark", "Bob", "Karen"]
-#
-# user_name = True
-#
-# while user_name:
-#     name = input("What's your name?")
-#     if name.isdigit():
-#         user_name = False
-#     else:
-#         list_names.append(name)
-#         break
-#
+list_names = ["Mark", "Bob", "Karen"]
+
+user_name = True
+
+while user_name:
+    name = input("What's your name?")
+    if name.isdigit():
+        user_name = False
+    else:
+        list_names.append(name)
+        break
+
 # print(f"Thank you {name}")
 # print(list_names)
 #
