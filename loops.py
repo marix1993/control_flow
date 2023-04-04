@@ -63,13 +63,13 @@ dict_data = {
 # age = input("What is your age?")
 # print(f"Your age is {age}")
 
-user_prompt = True
+# user_prompt = True
 
-while user_prompt:
-    age = input("What is your age?")
-    if age.isdigit() and int(age) < 117:
-        user_prompt = False
-    else:
-        print("Please provide your age in digits, below 117")
-
-print(f"Your age is {age}")
+# while user_prompt:
+#     age = input("What is your age?")
+#     if age.isdigit() and int(age) < 117:
+#         user_prompt = False
+#     else:
+#         print("Please provide your age in digits, below 117")
+#
+# print(f"Your age is {age}")
