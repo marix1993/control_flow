@@ -14,21 +14,22 @@ age = 12
 
 # elif and else
 
-film_rating = "ee"
-
-if film_rating.lower() == "universal":
-    print("All ages can watch this movie.")
-elif film_rating.lower() == "pg":
-    print("Parental guidance")
-elif film_rating.lower() == "12":
-    print("You must be at least 12 years old to watch it.")
-elif film_rating.lower() == "15":
-    print("You must be at least 15 to watch.")
-elif film_rating.lower() == "18":
-    print("You must be at least 18 to watch.")
-else:
-    print("Sorry, wrong input")
+# film_rating = "ee"
+#
+# if film_rating.lower() == "universal":
+#     print("All ages can watch this movie.")
+# elif film_rating.lower() == "pg":
+#     print("Parental guidance")
+# elif film_rating.lower() == "12":
+#     print("You must be at least 12 years old to watch it.")
+# elif film_rating.lower() == "15":
+#     print("You must be at least 15 to watch.")
+# elif film_rating.lower() == "18":
+#     print("You must be at least 18 to watch.")
+# else:
+#     print("Sorry, wrong input")
 
 # THERE ARE NO SWITCH OR CASE STATEMENTS IN PYTHON
+
 
 
